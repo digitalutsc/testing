@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cues>
+    <cue>
+        <speaker>Test Speaker One </speaker>
+        <start>31</start>
+        <end>36</end>
+        <transcript>It’s six o clock in the morning on the farm of Elton Woodside, near Clinton,
+            Prince Edward Island. </transcript>
+        <translation_fr>Il est six heures du matin dans la ferme d'Elton Woodside, près de Clinton, Île-du-Prince-Édouard.</translation_fr>
+        <translation_ch>早上六点钟在Elton Woodside的农场附近，靠近克林顿，爱德华王子岛。</translation_ch>
+        <translation_hi>यह क्लिंटन के पास एल्टन वुडसाइड के खेत पर सुबह छह बजे है, प्रिंस एडवर्ड द्वीप।</translation_hi>
+    </cue>
+    <cue>
+        <speaker>Test Speaker Two </speaker>
+        <start>36</start>
+        <end>43</end>
+        <transcript> The first round of chores is done and now it’s time for Elton to do his paper
+            route </transcript>
+        <translation_fr>Le premier tour de corvées est terminé et maintenant il est temps pour Elton de faire son article
+                         route.</translation_fr>
+        <translation_ch>第一轮的家务活动已经完成了，现在是埃尔顿做文章的时候了
+            路线 </translation_ch>
+        <translation_hi>पहले दौर का काम किया जाता है और अब एल्टन के लिए अपना पेपर करने का समय है
+            मार्ग </translation_hi>
+    </cue>
+    <cue>
+        <speaker>Test Speaker Three </speaker>
+        <start>44</start>
+        <end>49</end>
+        <transcript> It’s no ordinary paper route, for he has to cover the entire Island province
+            several times a week, </transcript>
+        <translation_fr>Ce n'est pas une route papier ordinaire, car il doit couvrir l'ensemble de la province de l'Île
+                         plusieurs fois par semaine,</translation_fr>
+        <translation_ch>这不是普通的纸路，因为他每星期要覆盖整个岛屿省，.</translation_ch>
+        <translation_hi>यह कोई साधारण कागज मार्ग नहीं है, क्योंकि उसे पूरे द्वीप प्रांत को एक सप्ताह में कई बार कवर करना पड़ता है,</translation_hi>
+    </cue>
+    <cue>
+        <speaker>Test Speaker Four </speaker>
+        <start>50</start>
+        <end>55</end>
+        <transcript>besides running a successful farm. He’s pilot, mechanic, and ground crew, all
+            rolled up into one. </transcript>
+        <translation_fr>En plus d'exploiter une ferme réussie. Il est pilote, mécanique et équipe au sol, tous
+                         Enroulé en un seul.</translation_fr>
+        <translation_ch>除了经营一个成功的农场。 他是飞行员，机械师和地勤人员
+            卷成一体 </translation_ch>
+        <translation_hi>एक सफल खेत चलाने के अलावा वह पायलट, मैकेनिक, और ग्राउंड क्रू, सभी हैं
+            एक में लुढ़का</translation_hi>
+    </cue>
+    <cue>
+        <speaker>Test Speaker Five </speaker>
+        <start>56</start>
+        <end>58</end>
+        <transcript>He even built his own hangar.</transcript>
+        <translation_fr>Il a même construit son propre hangar.</translation_fr>
+        <translation_ch>他甚至建造了自己的机库。</translation_ch>
+        <translation_hi>उसने अपने ही हैंगर का निर्माण भी किया।</translation_hi>
+    </cue>
+    <cue>
+        <speaker>Test Speaker Six </speaker>
+        <start>64</start>
+        <end>73</end>
+        <transcript> The dairy herd no longer pays any attention when he takes off from his field
+            and flies over the neat maritime countryside to Charlottetown.</transcript>
+        <translation_fr>Le troupeau de produits laitiers ne fait plus attention quand il sort de son champ
+                         Et vole sur la belle campagne maritime à Charlottetown.</translation_fr>
+        <translation_ch>当他从田野起飞时，奶牛群不再受到任何关注，飞过整齐的海上乡村到夏洛特敦。</translation_ch>
+        <translation_hi>डेयरी झुंड अब जब वह अपने क्षेत्र से बाहर ले जाता है और शार्लेटटाउन के लिए साफ समुद्री इलाकों के ऊपर मक्खियों का कोई ध्यान देता है।</translation_hi>
+    </cue>
+    <cue>
+        <speaker>Test Speaker Seven </speaker>
+        <start>85</start>
+        <end>88</end>
+        <transcript> He’s there in a matter of minutes to meet the newspaper truck at the
+            airport.</transcript>
+        <translation_fr>Il y a quelques minutes pour rencontrer le camion du journal à la
+                         aéroport.</translation_fr>
+        <translation_ch>他在几分钟内到达机场的报纸卡车。</translation_ch>
+        <translation_hi>वह हवाई अड्डे पर समाचार पत्र के ट्रक को मिलने के लिए कुछ मिनटों में है।</translation_hi>
+    </cue>
+    <cue>
+        <speaker>Test Speaker One </speaker>
+        <start>89</start>
+        <end>92</end>
+        <transcript> Bundles of the latest issue come aboard his plane, </transcript>
+        <translation_fr>Des lots du dernier numéro viennent à bord de son avion,</translation_fr>
+        <translation_ch>最新一期的捆绑包在他的飞机上，</translation_ch>
+        <translation_hi>नवीनतम विमान के बंडल अपने विमान पर आते हैं,</translation_hi>
+    </cue>
+    <cue>
+        <speaker>Test Speaker Two </speaker>
+        <start>93</start>
+        <end>97</end>
+        <transcript>bound for the outlying parts of the small island. </transcript>
+        <translation_fr>Pour les parties éloignées de la petite île.</translation_fr>
+        <translation_ch>限于小岛的外围部分。</translation_ch>
+        <translation_hi>छोटे द्वीप के बाहरी हिस्सों के लिए बाध्य</translation_hi>
+    </cue>
+    <cue>
+        <speaker>Test Speaker Three </speaker>
+        <start>100</start>
+        <end>104</end>
+        <transcript> The papers must be well tied, for this is an air drop delivery service.
+        </transcript>
+        <translation_fr>Les papiers doivent être bien liés, car il s'agit d'un service de livraison de livraison d'air.</translation_fr>
+        <translation_ch>这些文件必须很好地捆绑在一起，因为这是一个送气服务。</translation_ch>
+        <translation_hi>कागज़ात अच्छी तरह से बंधे रहें, क्योंकि यह एक एयर ड्रॉप डिलीवरी सेवा है।</translation_hi>
+    </cue>
+    <cue>
+        <speaker>Test Speaker Four </speaker>
+        <start>105</start>
+        <end>112</end>
+        <transcript> Boys and men hired by the newspaper are waiting at selected points to pick up
+            the bundles and deliver the copies to the subscribers doors. </transcript>
+        <translation_fr>Les garçons et les hommes embauchés par le journal attendent les points sélectionnés pour ramasser
+                         Les paquets et les livrer aux portes des abonnés.</translation_fr>
+        <translation_ch>报纸上雇用的男孩和男子正在等待选定的点拿起捆绑包，并将副本发送到订户门。</translation_ch>
+        <translation_hi>अखबार द्वारा रखे गए लड़कों और पुरुषों को बंडलों को लेने के लिए चयनित बिंदुओं पर इंतजार कर रहे हैं और प्रतियों को ग्राहकों के दरवाजे तक पहुंचाते हैं।</translation_hi>
+    </cue>
+    <cue>
+        <speaker>Test Speaker Five </speaker>
+        <start>117</start>
+        <end>128</end>
+        <transcript> Rain or Shine, Woodside covers his route. Fishermen at the north end, Villagers
+            at Hogg Island, Masqoosh and Port Hill get there morning papers not much later than the
+            city people in Charlottetown. </transcript>
+        <translation_fr>Rain or Shine, Woodside couvre son itinéraire. Les pêcheurs à l'extrémité nord, les villageois
+                         À Hogg Island, Masqoosh et Port Hill, il y a des journaux matinaux pas beaucoup plus tard que le
+                         Les gens de la ville à Charlottetown.</translation_fr>
+        <translation_ch>雨或闪耀，伍德赛德涵盖了他的路线。 北端的渔民，霍格岛的村民，马斯科什和港口山都有早上的报纸，比夏洛特敦的城市人还要晚。</translation_ch>
+        <translation_hi>वर्षा या शाइन, वुडसाइड अपने मार्ग को कवर करते हैं। उत्तर के अंत में मछुआरों, होग द्वीप, मास्कोऊस और पोर्ट हिल में ग्रामीणों को सुबह शाम मिलती है, शार्लटटाउन शहर के लोगों की तुलना में ज्यादा देर नहीं। </translation_hi>
+    </cue>
+    <cue>
+        <speaker>Test Speaker Six </speaker>
+        <start>138</start>
+        <end>147</end>
+        <transcript> Brookside is probably the champion hand bombardier in the world. At any rate,
+            he always wins the prize at local air meets in open competition. </transcript>
+        <translation_fr>Brookside est probablement le bombardier à main de champion du monde. À tout prix,
+                         Il gagne toujours le prix à l'air local en compétition ouverte.</translation_fr>
+        <translation_ch>布鲁克赛德可能是世界冠军手中的轰炸者。 无论如何，他总是在公开竞争的当地空气会议上获奖。</translation_ch>
+        <translation_hi>ब्रूसिड शायद दुनिया में विजेता हाथ बमबारी है किसी भी दर पर, वह हमेशा खुले प्रतिस्पर्धा में स्थानीय हवाई मिलने पर पुरस्कार जीतता है। </translation_hi>
+    </cue>
+    <cue>
+        <speaker>Test Speaker Seven </speaker>
+        <start>148</start>
+        <end>153</end>
+        <transcript> He can put package after package inside a twenty foot circle flying at 95 Miles
+            an hour. </transcript>
+        <translation_fr>Il peut mettre le paquet après le paquet dans un cercle de vingt pieds volant à 95 Miles
+                         une heure.</translation_fr>
+        <translation_ch>他可以把包裹放在一个二十英尺的圆周内以95英里的速度飞行。</translation_ch>
+        <translation_hi>वह एक घंटे में 95 मील की दूरी पर उड़ने वाले बीस फुट सर्कल के अंदर पैकेज के बाद पैकेज डाल सकता है</translation_hi>
+    </cue>
+    <cue>
+        <speaker>Test Speaker One </speaker>
+        <start>154</start>
+        <end>164</end>
+        <transcript> Besides delivering papers, his airplane is always available for mercy flights.
+            He’s raced the stork to the hospital plenty of times and taken doctors to outlying
+            patients. </transcript>
+        <translation_fr>En plus de livrer des papiers, son avion est toujours disponible pour les vols de grâce.
+                         Il a couru beaucoup la cigogne à l'hôpital et a pris les médecins dans les quartiers périphériques
+                         les patients.</translation_fr>
+        <translation_ch>除了提供文件外，他的飞机总是可以怜悯飞行。 他多次把鹳给医院，把医生带到离境的病人身上。</translation_ch>
+        <translation_hi>कागजात देने के अलावा, उसका हवाई जहाज हमेशा दया के लिए उपलब्ध है उड़ानें वह कई बार अस्पताल के लिए स्टॉर्क की तरफ निकलता है और चिकित्सकों को रोगियों से बाहर निकालता है। </translation_hi>
+    </cue>
+    <cue>
+        <speaker>Test Speaker Two </speaker>
+        <start>165</start>
+        <end>171</end>
+        <transcript> Everybody on the island knows his plane, and he always has time to say hello or
+            take a message free of charge. </transcript>
+        <translation_fr>Tout le monde sur l'île connaît son avion, et il a toujours le temps de dire bonjour ou
+                         Prenez un message gratuitement.</translation_fr>
+        <translation_ch>岛上的每个人都知道他的飞机，他总是有时间打个招呼或免费发送信息。</translation_ch>
+        <translation_hi>द्वीप पर हर कोई अपने विमान को जानता है, और वह हमेशा के लिए हैलो कहने या एक संदेश नि: शुल्क लेने का समय है। </translation_hi>
+    </cue>
+    <cue>
+        <speaker>Test Speaker Three </speaker>
+        <start>172</start>
+        <end>180</end>
+        <transcript> When winter blocks the roads and there’s not much work around the farm, he’s
+            practically a full time airline, doing charter passenger flights. </transcript>
+        <translation_fr>Lorsque l'hiver bloque les routes et qu'il n'y a pas beaucoup de travail autour de la ferme, il est
+                         Pratiquement une compagnie aérienne à temps plein, effectuant des vols de voyageurs affrétés.</translation_fr>
+        <translation_ch>当冬季封闭道路，农场周围没有太多工作时，他几乎是全职的航空公司，正在开展特许乘客航班。</translation_ch>
+        <translation_hi>जब सर्दियों ने सड़कों को रोक दिया और खेत के आसपास ज्यादा काम नहीं किया, तो वह एक पूर्णकालिक एयरलाइन है, चार्टर यात्री उड़ानें कर रही है </translation_hi>
+    </cue>
+    <cue>
+        <speaker>Test Speaker Four </speaker>
+        <start>191</start>
+        <end>200</end>
+        <transcript> But this morning, the flying is over in an hour or two. by 8 o clock the papers
+            are all delivered, and the aviator becomes a farmer once again. </transcript>
+        <translation_fr>Mais ce matin, le vol est terminé dans une heure ou deux. À 8 heures, les papiers
+                         Sont tous livrés, et l'aviateur devient un agriculteur une fois de plus.</translation_fr>
+        <translation_ch>但是今天早上，飞机在一两个小时内就结束了。 8点钟的纸张全部交付，飞行员再次成为农民。</translation_ch>
+        <translation_hi>लेकिन आज सुबह, एक या दो घंटे में उड़ान खत्म हो गई है। 8 वें दिन तक कागजात वितरित किए जाते हैं, और एविएटर फिर से एक किसान बन जाता है। </translation_hi>
+    </cue>
+    <cue>
+        <speaker>Test Speaker Five </speaker>
+        <start>207</start>
+        <end>214</end>
+        <transcript> With all that rush he didn’t forget to pick up a bag of fertilizer at the
+            airport. After all, this is Prince Edward Island, </transcript>
+        <translation_fr>Avec toute sa course, il n'a pas oublié de ramasser un sac d'engrais au
+                         aéroport. Après tout, c'est l'Île-du-Prince-Édouard,</translation_fr>
+        <translation_ch>随着这一切，他并没有忘记在机场拿起一袋化肥。 毕竟这是爱德华王子岛，</translation_ch>
+        <translation_hi>वह भीड़ के साथ, वह हवाई अड्डे पर उर्वरक का एक बैग लेने के लिए नहीं भूल गया। आखिर, यह प्रिंस एडवर्ड आइलैंड है,</translation_hi>
+    </cue>
+    <cue>
+        <speaker>Test Speaker Six </speaker>
+        <start>215</start>
+        <end>300</end>
+        <transcript> and there are potatoes to be looked after.</transcript>
+        <translation_fr>et il y a des pommes de terre à soigner.</translation_fr>
+        <translation_ch>有土豆要照顾。</translation_ch>
+        <translation_hi>और आलू की देखभाल करने के बाद।</translation_hi>
+    </cue>
+</cues>
