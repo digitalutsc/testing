@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cues>
+    
+    <cue>
+        <speaker>Anna</speaker>
+        <start>0.000</start>
+        <end>2.503</end>
+        <transcript>A rocket is a launch vehicle.</transcript>
+        <annotation>Interview starts right now</annotation>
+    </cue>
+
+    <cue>
+        <speaker>Elsa</speaker>
+        <start>2.503</start>
+        <end>10.475</end>
+        <transcript>It can also be a space capsule, usually in the form of a cylinder or a tubelike structure that launches from the Earth.</transcript>
+        <annotation>Brief explanation</annotation>
+    </cue>
+
+    <cue>
+        <speaker>Anna</speaker>
+        <start>10.477</start>
+        <end>13.516</end>
+        <transcript>And it can be used to carry humans into space.</transcript>
+        <annotation>No music</annotation>
+    </cue>
+
+    <cue>
+        <speaker>Elsa</speaker>
+        <start>13.516</start>
+        <end>17.371</end>
+        <transcript>It can also be used to carry supplies such as cargo,</transcript>
+        <annotation>sounds great</annotation>
+    </cue>
+
+    <cue>
+        <speaker>Anna</speaker>
+        <start>17.371</start>
+        <end>20.961</end>
+        <transcript>food, materials or anything that can be carried to the International Space Station</transcript>
+        <annotation>Seems very powerful.</annotation>
+    </cue>
+
+    <cue>
+        <speaker>Elsa</speaker>
+        <start>20.951</start>
+        <end>26.872</end>
+        <transcript>because we do have astronauts that live on the space station, and they need supplies and everything to live and to work up there.</transcript>
+        <annotation>Sure. That is right.</annotation>
+    </cue>
+
+    <cue>
+        <speaker>Anna</speaker>
+        <start>26.872</start>
+        <end>35.068</end>
+        <transcript>It can also be used as something to launch satellites into the orbit that the military may use or that NASA may use, or it can even be a satellite.</transcript>
+        <annotation>Interview ends here.</annotation>
+    </cue>
+
+</cues>
